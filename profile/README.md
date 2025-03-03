@@ -15,9 +15,9 @@ CTF Legends is a Capture The Flag platform. Our goal is to provide an exciting a
 ## 🤝 Get Involved
 Want to contribute or join us? Be part of our community! 🎉
 
-📌 **Join our Discord**: [Click here](https://discord.gg/JsBVMbs5gF)
-📌 **Sign up on our platform**: [COMING SOON](example.com)
-📌 **Follow us on GitHub** and contribute! 🙌
+- 📌 **Join our Discord**: [Click here](https://discord.gg/JsBVMbs5gF)
+- 📌 **Sign up on our platform**: [COMING SOON](example.com)
+- 📌 **Follow us on GitHub** and contribute! 🙌
 
 ## 🚀 Contribute
 Have ideas for new challenges or want to improve features? Feel free to open an issue or submit a pull request!
